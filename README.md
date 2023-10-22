@@ -1,8 +1,10 @@
 # Postfix-Calculator-Application
 Course Project (COL106) under Prof. Subodh Sharma [August 2023] : Designed a robust calculator app using various stack implementations, object-oriented programming principles, expression tokenization, post-fix notation evaluation, and strong error handling
 # Types of Stack Implementation
-stack_a : via fixed size arrays
-stack_b : via dynamic arrays
+stack_a : via fixed size arrays,
+
+stack_b : via dynamic arrays,
+
 stack_c : via linked lists
 # Commands Explanation
 Let’s walk through each of the command one-by-one.
